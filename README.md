@@ -1,3 +1,10 @@
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+
+
 ### Connect with me
 <br />
 
@@ -8,3 +15,28 @@
 [<img alt="LinkedIn Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />]( https://www.linkedin.com/in/kurdia/)
 
 <br />
+
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+
+
+## 📊 Github Stats
+
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/HosseinKurd/github-readme-stats"><img alt="Hossein Kurd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HosseinKurd&show_icons=true&count_private=true&theme=buefy" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HosseinKurd&langs_count=10&show_icons=true&locale=en&layout=compact&theme=buefy" alt="HosseinKurd" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
+----
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HosseinKurd&bg_color=fafafa&color=914b8c&line=059294&point=48f73b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
