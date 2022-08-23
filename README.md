@@ -1,9 +1,17 @@
 
+## :sassy_man:  About me
+- :school: I am an Android developer who see our world as algorithms
+- :trophy: I am Living
+- :technologist: I love using Algorithms as solution for every `Problem`
+- :computer: I am a competitive programmer mainly at `Codeforces`
+- :student: `IT`
+- :nerd_face: Always `learning and creating`
+
+<br>
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-
-
 
 ### Connect with me
 <br />
@@ -18,7 +26,7 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/HosseinKurd/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HosseinKurd&layout=compact&theme=buefy" alt="Hossein Kurd" /></a> </p>
 
 
 ## 📊 Github Stats
@@ -29,8 +37,7 @@
   <p align="center">
     <a href="https://github.com/HosseinKurd/github-readme-stats"><img alt="Hossein Kurd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HosseinKurd&show_icons=true&count_private=true&theme=buefy" height="192px"/></a>
 <br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HosseinKurd&langs_count=10&show_icons=true&locale=en&layout=compact&theme=buefy" alt="HosseinKurd" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HosseinKurd&langs_count=10&show_icons=true&locale=en&layout=compact&theme=buefy" alt="HosseinKurd" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
