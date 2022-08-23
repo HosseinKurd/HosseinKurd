@@ -1,14 +1,10 @@
 ### Connect with me
 <br />
 
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/kurdia/)
-[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://medium.com/@ho.kurd)
+[<img align="left" alt="Stackoverflow Badge" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/2897869/hossein-kurd)
 
-<br />
-<br />
+[<img align="left" alt="Medium Badge" src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@ho.kurd)
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
+[<img align="left" alt="LinkedIn Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />]( https://www.linkedin.com/in/kurdia/)
+
 <br />
