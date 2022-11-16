@@ -44,6 +44,6 @@
 
 ----
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HosseinKurd&bg_color=fafafa&color=914b8c&line=059294&point=48f73b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=HosseinKurd&bg_color=fafafa&color=914b8c&line=059294&point=48f73b&area=true&hide_border=true)](https://github.com/HosseinKurd/github-readme-activity-graph)
 
 <br/>
