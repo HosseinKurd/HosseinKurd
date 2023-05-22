@@ -3,7 +3,7 @@
 - :school: I am an Android developer who see our world as algorithms
 - :trophy: I am Living
 - :technologist: I love using Algorithms as solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces`
+- :computer: I am a competitive Developer
 - :student: `IT`
 - :nerd_face: Always `learning and creating`
 
