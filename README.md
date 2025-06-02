@@ -1,49 +1,26 @@
+# 💫About Me :
+🏫 I am a software developer who loves AI
+🏆 I am living
+🧑‍💻 I love to use Algorithms as a solution
+💻 I am a competitive Developer
+🧑‍🎓 IT
+🤓 Always learning and creating
 
-## :sassy_man:  About me
-- :school: I am an Android developer who see our world as algorithms
-- :trophy: I am Living
-- :technologist: I love using Algorithms as solution for every `Problem`
-- :computer: I am a competitive Developer
-- :student: `IT`
-- :nerd_face: Always `learning and creating`
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kurdia) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ho.kurd) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2897869) 
 
-<br>
+# 💻Tech Stack
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=HosseinKurd&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HosseinKurd&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinKurd&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=HosseinKurd&theme=buddhism&no-frame=false&no-bg=false&margin-w=4)
 
-### Connect with me
-<br />
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-[<img alt="Stackoverflow Badge" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/2897869/hossein-kurd)
-
-[<img alt="Medium Badge" src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@ho.kurd)
-
-[<img alt="LinkedIn Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />]( https://www.linkedin.com/in/kurdia/)
-
-<br />
-
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/HosseinKurd/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HosseinKurd&layout=compact&theme=buefy" alt="Hossein Kurd" /></a> </p>
-
-
-## 📊 Github Stats
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/HosseinKurd/github-readme-stats"><img alt="Hossein Kurd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HosseinKurd&show_icons=true&count_private=true&theme=buefy" height="192px"/></a>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HosseinKurd&langs_count=10&show_icons=true&locale=en&layout=compact&theme=buefy" alt="HosseinKurd" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-----
-
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=HosseinKurd&bg_color=fafafa&color=914b8c&line=059294&point=48f73b&area=true&hide_border=true)](https://github.com/HosseinKurd/github-readme-activity-graph)
-
-<br/>
+---
+[![](https://visitcount.itsvg.in/api?id=HosseinKurd&icon=0&color=1)](https://visitcount.itsvg.in)
